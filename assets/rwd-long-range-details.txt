@@ -1,0 +1,187 @@
+Electricity consumption 16.0 kWh/100 km; CO2 emissions 0 g/km; CO2 class: A (combined values according to WLTP).
+
+Key technical data
+- Range (WLTP): 520 km
+- Energy consumption (WLTP): 16.0 kWh/100 km
+- Power: 183 kW
+- Torque: 280 N·m
+- Battery capacity (gross): 71.1 kWh (LFP)
+- Acceleration (0–100 km/h): 6.6 seconds
+- Top speed: 180 km/h
+- DC fast charging power max: 236 kW
+- DC charging time (10–80%): 20 minutes
+- AC charging power: 11 kW
+- AC charging time (5–100% 11 kW): 8.3 hours
+- V2L (Vehicle-to-Load)
+- Driving mode selection: ECO / Comfort / Sport / Individual / Snow / Slippery
+- Electronic Stability Program (ESP)
+- OneBox braking system
+- Electronic Parking Brake (EPB)
+- Auto Hold
+- Turning circle: 10.5 m
+- Drag coefficient: 0.228 Cd
+
+Exterior
+- Length × Width × Height (mm): 4650 × 1920 × 1600
+- Wheelbase (mm): 2850
+- Track width, front / rear (mm): 1640 / 1658
+- Ground clearance, loaded (mm): 143
+- Seating capacity: 5
+- Unladen weight: 1940 kg (without trailer hitch) / 1960 kg (with trailer hitch)
+- Maximum permissible weight: 2465 kg (with trailer hitch)
+- Maximum payload: 525 kg (without towbar) / 505 kg (with towbar)
+- Frunk capacity: 89 L
+- Boot capacity: 367 L
+- Maximum roof load: 75 kg
+- Maximum towing capacity (unbraked): 750 kg
+- Maximum towing capacity (braked): 1500 kg
+- LED headlights with automatic light control
+- Continuous LED light strip
+- LED daytime running lights
+- Cornering light
+- Dynamic front turn signals
+- Intelligent High Beam (IHB)
+- Manual headlight adjustment
+- rain sensor
+- Windshield washer fluid level warning
+- Heated windshield washer nozzles
+- Heated exterior mirrors
+- Electrically folding exterior mirrors (with memory, blind spot monitoring, curb lowering when reversing)
+- Frameless exterior mirrors
+- Semi-recessed, mechanical door handles
+- Frameless doors
+- Panoramic glass roof (heat-insulating / silver-plated)
+- Privacy glass (rear / rear window)
+- Single-button power windows (all four) with anti-pinch protection
+- Electric tailgate with position memory
+- 18" alloy wheels
+- Roof rail mounting points (prepared)
+
+interior
+- Capacitive multifunction steering wheel MicroFiber
+- Heated steering wheel
+- Electrically controlled, concealed air vents
+- Multi-ambient lighting (256 colors)
+- Manually dimming interior mirror
+- 50W inductive charging of mobile phones, ventilated
+- USB Type-C ports (2x)
+- USB Type-A port (1x)
+- 12V socket in the trunk
+- Dual-zone automatic climate control
+- Air vents in the rear
+- PTC auxiliary heater
+- heat pump
+- XP-HP 3.5 Intelligent Thermal Management System with Heat Pump
+- PM2.5 air filter system
+- Air Quality Monitoring System (AQS)
+- 1/4" threaded fixings (front seats, behind interior mirror, B-pillars ×2)
+- Integrated magnetic mounts
+- Pogo-pin interfaces ×2 (center console + trunk)
+- Boot floor lashing eyes
+- Boot cover
+- Luggage hooks on the tailgate (2)
+- Flexible boot hooks
+- Faux leather seats + velour pillar trim + velour headliner
+- Interior color options:
+  - Dark Gray
+  - Light Gray
+
+Seats
+front seats
+- Driver's seat electrically adjustable
+- Passenger seat electrically adjustable
+- 4-way lumbar support (driver's seat)
+- Heated front seats
+- Ventilated front seats
+- Front seats welcome function
+- Front seat position memory (driver and front passenger)
+- Driver's seat with lumbar relaxation function
+- Mounting points on front seat backrests
+rear seats
+- Manually adjustable rear seat backrest
+- Folding rear seats (40/20/40)
+- Rear seats fold flat
+- Center armrest with cup holders
+- Drawer under the rear seat (1x, 7L)
+
+XOS
+- Infotainment system-on-chip (SoC): MT8676
+- Driver information display: 8.88 inches
+- Central control and entertainment screen: 15.6 inches
+- Head-Up Display (W-HUD): 26.8 inches
+- "Hey XPENG" voice control (4-zone, full scenario with intelligent recommendation)
+- Intelligent navigation
+- DAB+ FM Radio
+- XPENG App Store
+- Apple CarPlay®
+- Android Auto®
+- Bluetooth®
+- Bluetooth® Digital Key
+- Keyless entry (Smartphone)
+- OTA (Over-the-Air) software updates
+- XPENG Mobile App Remote Control
+- Remote diagnosis
+- Welcome/Meditation Mode
+- Pet Mode
+
+Cameras & Sensors
+- 360° surround-view camera system
+- Transparent chassis
+- Front camera
+- Rear camera (reversing camera)
+- Ultrasonic parking sensors
+- millimeter wave radars
+- High-precision positioning system
+- Driver condition monitoring (DMS)
+
+XPILOT ASSIST (Advanced Driver Assistance System)
+Hardware system
+- front camera module
+Drive
+- Adaptive Cruise Control (ACC)
+- Lane Centering Assist (LCC)
+- Speed Assistance System (SAS)
+- Traffic Sign Recognition (TSR)
+Park
+- Automatic parking assistance (APA)
+- Remote Parking Assistant (Smartphone)
+- Remote forward/reverse driving (smartphone)
+Safety assistance (frontal collision prevention)
+- Automatic Emergency Braking (AEB)
+- Front Distance Monitoring (FDM)
+- Frontal Collision Warning (FCW)
+- Front Cross Traffic Alert (FCTA)
+- Intelligent High Beam (IHB)
+Safety assistance (side collision prevention)
+- Blind Spot Detection (BSD)
+- Door opening warning (DOW)
+- Lane Departure Warning (LDW)
+- Active Lane Keeping Assist (LKA)
+- Preventive Lane Departure Warning (LDP)
+- Emergency Lane Keeping Assist (ELK)
+Safety assistance (rear collision prevention)
+- Rear Collision Warning (RCW)
+- Rear Cross Traffic Alert (RCTA)
+
+sound system
+- XPENG XOPERA Surround Sound System: 9 speakers
+- Headrest speakers for the driver ×2
+
+Security
+- Total number of airbags: 7
+  - Driver airbag
+  - passenger airbag
+  - Front center airbag (between the seats)
+  - Front side airbags
+  - Full-length curtain airbags (front and rear)
+- Deactivation of front passenger airbag
+- Direct tire pressure monitoring system with real-time display (TPMS)
+- Seatbelt warning system (all seats)
+- Child presence detection – Direct detection
+- ISOFIX mounting points in the rear
+- Acoustic Vehicle Alerting System (AVAS)
+- Child safety lock at the rear
+- Emergency call (eCall)
+- Intelligent braking system
+- Steering assistance
+- Auto Hold
